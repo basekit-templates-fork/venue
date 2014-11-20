@@ -138,9 +138,9 @@
         },
         "font10": {
             "font-family": "\"PT Sans\", Tahoma, Geneva, sans-serif",
-            "font-size": "23px",
+            "font-size": "30px",
             "font-weight": "300",
-            "line-height": "44px",
+            "line-height": "42px",
             "color": "@color-swatch1",
             "letter-spacing": "inherit"
         }
